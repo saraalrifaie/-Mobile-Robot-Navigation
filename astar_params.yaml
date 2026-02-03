@@ -1,0 +1,8 @@
+navigator_node:
+  ros__parameters:
+    robot_radius: 0.3 # radius considered of the robot to check collisions with environment.
+    goal_tolerance: 0.1 # error tolerated by the finish point of the path to the goal
+    use_path_smoother: true # if it is desired to make the path smooth
+    max_planning_bounds: [80, 80] # bounds in which the algorithm will try to find a solution, values in meters
+
+    map_topic: /projected_map # topic to which the node subscribed to obtain the map
