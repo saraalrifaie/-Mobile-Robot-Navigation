@@ -1,5 +1,5 @@
-CM3118 – Mobile Robot Navigation Coursework
-README – [23025758]
+ – Mobile Robot Navigation Coursework
+README 
 
 PART 1 – A* Online Planning (Python)
 
@@ -17,9 +17,6 @@ Tested locations in the TurtleBot3 world:
 - lastly the room to the right (-6.32019 -0.132033)
 if goal is in table or in obstacle, it wont move but if you then give it a goal in a valid place it will move.
 
-Video for Part 1:
-https://cf-my.sharepoint.com/:v:/g/personal/alrifaies_cardiff_ac_uk/IQAGjnMbz5xWTII8fBODIIT9AaEXILDkAaZCjRPyYJ4WQ40
-Please highlight link then copy paste
 
 PART 2 – RRT* Online Planning (Python)
 
@@ -35,11 +32,6 @@ Tested locations in the TurtleBot3 world:
 - moving robot to another room ( 6.374808, -1.190011) 
 - take it to the further room in bottom (-5.855394, 3.715197)
 - lastly the room to the right (-6.32019 -0.132033)
-
-Video for Part 2:
-https://cf-my.sharepoint.com/:v:/g/personal/alrifaies_cardiff_ac_uk/IQA1LYRloBK9TJSqbDZ4aVpeAbRa_q5opmOZgj__yCXuxHk
-Please highlight link then copy paste
-
 
 PART 2 – RRT* Online Planning (C++ OMPL)
 
